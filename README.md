@@ -1,3 +1,3 @@
 # hello-world-cpp-fmt
 
-g++ -O3 -DNDEBUG -std=c++17 main.cpp -I./include -o main -s
+g++ main.cpp -O3 -s -DNDEBUG -std=c++23 -I./include -o main
